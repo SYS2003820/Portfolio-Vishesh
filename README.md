@@ -3,7 +3,7 @@
 An interactive and visually engaging developer portfolio built with **React**, **Three.js**, **TailwindCSS**, and **Framer Motion**.  
 This project highlights my technical expertise, creativity, and ability to design modern, responsive, and animated web experiences.  
 
-![3D Portfolio Preview]()
+![3D Portfolio Preview](https://github.com/SYS2003820/Portfolio-Vishesh/blob/4667f89482e37c52c9e176ac9e31ffdddc981192/preview.jpg)
 
 ---
 
